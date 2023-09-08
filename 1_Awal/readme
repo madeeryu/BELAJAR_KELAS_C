@@ -1,0 +1,17 @@
+#download compiler https://drive.google.com/file/d/1pwD_BeUZTYjZMaMNCT5zsFWewCitfphj/view
+
+# Untuk mengcomplie menggunakan rumus = g++ -c (nama file) dilakukan pada  terminal
+
+# cpp -> preprocessing->comple->linking->file exe
+
+# sintax yang digunakann untuk melihat hasil comple
+# g++ -c (nama file) -> objdump -d (namafile.o)
+
+# ketika sudah mengcompile kemudian ingin linking atau menyatukan 
+menggunakan sintax(g++ -o namapanggilan namafile.cpp )
+
+# ./namafile
+
+# set-Location "C:\Users\lenovo\OneDrive\Documents\belajar c++\part 1"
+
+# dir untuk melihan file pada cmd, cd (nama file) untuk masuk kesbuah file munggunakan cmd,

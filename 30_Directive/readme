@@ -1,0 +1,6 @@
+Prepocesing adalah sebuah fungsi yang berada di luar coompile
+dan tidak memakan memori
+
+preprocesing directive
+define tidak akan memakan memori.
+untuk melihat hasil g++ -E (namafile) -o (nama file yg kita mau.p)

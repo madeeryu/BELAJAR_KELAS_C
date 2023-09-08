@@ -1,0 +1,15 @@
+Ini adalah file eksternal.
+dan ini adalah baris kedua.
+
+data
+No nama
+1  Ahmad
+2  Ifan
+3  sutet
+4  said
+5  maijah
+6  jaenab
+7  azka
+8  turkiem
+9  uus
+10 siapa
